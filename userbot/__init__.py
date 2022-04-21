@@ -154,7 +154,7 @@ GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN", None)
 # Custom (forked) repo URL for updater.
 UPSTREAM_REPO_URL = os.environ.get(
     "UPSTREAM_REPO_URL",
-    "https://github.com/farizjs/Flicks-Userbot")
+    "https://github.com/polarrbear/Flicks-Userbot")
 UPSTREAM_REPO_BRANCH = os.environ.get(
     "UPSTREAM_REPO_BRANCH", "Flicks-Userbot")
 
@@ -613,7 +613,7 @@ with bot:
                     buttons=[
                         [
                             Button.url("Repository",
-                                       "https://github.com/farizjs/Flicks-Userbot"),
+                                       "https://github.com/polarrbear/Flicks-Userbot"),
                             Button.url("Tutorial",
                                        "https://t.me/InfoFlicksUserbot/64")],
                     ]
@@ -645,10 +645,10 @@ with bot:
                                               [
                                                   custom.Button.url(
                                                       text="Rᴇᴘᴏ",
-                                                      url="https://github.com/farizjs/Flicks-Userbot"),
+                                                      url="https://github.com/polarrbear/Flicks-Userbot"),
                                                   custom.Button.url(
                                                       text="Lɪsᴇɴsɪ​",
-                                                      url="https://github.com/farizjs/Flicks-Userbot/blob/Flicks-Userbot/LICENSE"
+                                                      url="https://t.me/dxAceng"
                                                   )
                                               ]
                                       ]
@@ -667,7 +667,7 @@ with bot:
                     buttons=[
                         [
                             Button.url("Dengan Web",
-                                       "https://replit.com/@fjgaming212/StringSession#main.py"),
+                                       "https://replit.com/@skypis/stringen?lite=1&outputonly=1"),
                             Button.url("Dengan Bot",
                                        "https://t.me/StringSessionFlicksbot")],
                     ]
