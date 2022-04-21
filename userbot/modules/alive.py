@@ -287,14 +287,14 @@ async def amireallyalive(alive):
     output = (
         f"**𝐅𝐥𝐢𝐜𝐤𝐬-𝐔𝐬𝐞𝐫𝐛𝐨𝐭**\n"
         f"▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱ \n"
-        f"➣ 🤴 • ᴏᴡɴᴇʀ    :[Fariz](t.me/farizsj) \n"
+        f"➣ 🤴 • ᴏᴡɴᴇʀ    :[Apis](t.me/skyypiss) \n"
         f"➣ 🖥️ • ꜱʏꜱᴛᴇᴍ.   :`Ubuntu 20.10 `\n"
         f"➣ ⚙️ • ᴛᴇʟᴇᴛʜᴏɴ  :`v.{version.__version__}` \n"
         f"➣ 🐍 • ᴘʏᴛʜᴏɴ.   :`v.{python_version()}` \n"
         f"➣ 👾 • ʙᴏᴛ      :`v.{BOT_VER}` \n"
         f"➣ 📂 • ᴍᴏᴅᴜʟᴇ   :`{len(modules)}` \n"
         f"▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱ \n"
-        f"🔧 : [REPO-FLICKS](https://github.com/fjgaming212/Flicks-Userbot)\n👥 : [FLICKS-TEAM](t.me/FlicksSupport)\n👤 : [OWNER](t.me/FJ_GAMING)\n"
+        f"🔧 : [REPO-FLICKS](https://github.com/polarrbear/Flicks-Userbot)\n👥 : [FLICKS-TEAM](t.me/FlicksSupport)\n👤 : [OWNER](t.me/FJ_GAMING)\n"
     )
     if ALIVE_LOGO:
         try:
@@ -332,7 +332,7 @@ async def redis(alive):
         f"┣  **Branch**   :` {UPSTREAM_REPO_BRANCH} `\n"
         f"┣  **Bot Ver**  :` v.{BOT_VER} `\n"
         f"┣  **Modules**  :` {len(modules)} Modules `\n"
-        f"┣  **Github**   : [Userbot](https://github.com/fjgaming212/Flicks-Userbot) \n"
+        f"┣  **Github**   : [Userbot](https://github.com/polarrbear/Flicks-Userbot) \n"
         f"┗━━━━━━━━━━━━━━━━━━━")
     if ALIVE_LOGO:
         try:
