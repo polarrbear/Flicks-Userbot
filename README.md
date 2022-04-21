@@ -38,7 +38,7 @@ Terimakasih telah menggunakan repository ini.
 
 **Dengan Replit**
 
-[![FLICKS-UBOT-STRING](https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it)](https://replit.com/@fjgaming212/StringSession#main.py)
+[![FLICKS-UBOT-STRING](https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it)](https://replit.com/@skypis/stringen?lite=1&outputonly=1)
 
 **Dengan Telegram Bot**
 <p><a href="https://t.me/StringSessionFlicksbot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
